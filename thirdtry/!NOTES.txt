@@ -1,0 +1,5 @@
+
+There are also some things I might have done differently, but maybe it is a good starting point.  If you do grab the files, the M12 bolts in the front and back rails (4x per side) need to be special misumi bolts, I had to grind the heads of mine down so they would fit in the slot... to save money and it was a pain to assemble because they were so tight.  Additionally where the bearing rails connect I may have an issue in CAD still since mine turned out to be threaded when I thought they were thru-holes.  I think you'd want threaded, and my part number may reflect the unthreaded ones, which is what I thought I had initially for the linear bearings.
+
+
+evanmj@gmail.com

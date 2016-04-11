@@ -1,0 +1,23 @@
+
+
+model top switch/stop brackets on back side.
+model pulley mount on x
+model belt on x
+model belt hold on x
+model belt hold on y
+model pulley /mount on y
+
+model z nuts assy
+model holes for z nuts
+
+model Y motor mount. standoffs and plate vs bending?
+
+model end cap for top tie extrusion for fortification to
+uprights
+
+
+
+verify:
+
+6mm holes are good for t nuts.
+
